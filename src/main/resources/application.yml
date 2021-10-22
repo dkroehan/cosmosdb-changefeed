@@ -1,0 +1,5 @@
+cosmosdb:
+  endpoint: "fill_me"
+  key: "fill_me"
+  database: "fill_me"
+  container: "fill_me"
